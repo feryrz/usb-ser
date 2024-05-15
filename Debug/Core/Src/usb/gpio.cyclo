@@ -1,0 +1,4 @@
+../Core/Src/usb/gpio.c:16:6:gpio_pin_init	7
+../Core/Src/usb/gpio.c:54:6:gpio_pin_set	2
+../Core/Src/usb/gpio.c:61:5:gpio_pin_get	2
+../Core/Src/usb/gpio.c:68:20:gpio_pin_get_bitband_clear_addr	3

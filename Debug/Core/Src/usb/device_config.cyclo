@@ -1,0 +1,4 @@
+../Core/Src/usb/device_config.c:112:6:device_config_init	7
+../Core/Src/usb/device_config.c:120:18:device_config_get	1
+../Core/Src/usb/device_config.c:124:6:device_config_save	16
+../Core/Src/usb/device_config.c:178:6:device_config_reset	1

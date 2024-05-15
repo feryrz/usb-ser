@@ -1,0 +1,7 @@
+../Core/Src/usb/cdc_shell.c:44:13:cdc_shell_write_string	1
+../Core/Src/usb/cdc_shell.c:357:13:cdc_shell_cmd_version	1
+../Core/Src/usb/cdc_shell.c:407:13:cdc_shell_cmd_help	6
+../Core/Src/usb/cdc_shell.c:230:13:cdc_shell_cmd_uart	58
+../Core/Src/usb/cdc_shell.c:343:13:cdc_shell_cmd_config	4
+../Core/Src/usb/cdc_shell.c:491:6:cdc_shell_init	1
+../Core/Src/usb/cdc_shell.c:538:6:cdc_shell_process_input	41

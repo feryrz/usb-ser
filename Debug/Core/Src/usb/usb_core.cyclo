@@ -1,0 +1,16 @@
+../Core/Src/usb/usb_core.c:100:13:usb_assign_device_address_cb	1
+../Core/Src/usb/usb_core.c:226:13:usb_control_endpoint_process_tx.constprop	9
+../Core/Src/usb/usb_core.c:29:6:usb_device_handle_reset	1
+../Core/Src/usb/usb_core.c:37:6:usb_device_handle_configured	2
+../Core/Src/usb/usb_core.c:43:6:usb_device_handle_suspend	2
+../Core/Src/usb/usb_core.c:51:6:usb_device_handle_wakeup	1
+../Core/Src/usb/usb_core.c:55:6:usb_device_handle_frame	1
+../Core/Src/usb/usb_core.c:59:6:usb_device_poll	1
+../Core/Src/usb/usb_core.c:65:14:usb_control_endpoint_process_get_descriptor	6
+../Core/Src/usb/usb_core.c:105:14:usb_control_endpoint_process_device_request	13
+../Core/Src/usb/usb_core.c:140:14:usb_control_endpoint_process_interface_request	2
+../Core/Src/usb/usb_core.c:151:14:usb_control_endpoint_process_endpoint_request	3
+../Core/Src/usb/usb_core.c:172:14:usb_control_endpoint_process_request	9
+../Core/Src/usb/usb_core.c:213:6:usb_control_endpoint_stall	1
+../Core/Src/usb/usb_core.c:326:6:usb_control_endpoint_event_handler	20
+../Core/Src/usb/usb_core.c:343:6:usb_init	1

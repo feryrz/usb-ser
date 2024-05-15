@@ -1,0 +1,11 @@
+../Core/Src/usb/usb_io.c:21:6:usb_io_reset	16	static
+../Core/Src/usb/usb_io.c:57:6:usb_io_init	0	static,ignoring_inline_asm
+../Core/Src/usb/usb_io.c:81:8:usb_bytes_available	0	static
+../Core/Src/usb/usb_io.c:85:8:usb_space_available	0	static
+../Core/Src/usb/usb_io.c:96:5:usb_read	24	static
+../Core/Src/usb/usb_io.c:116:8:usb_send	20	static
+../Core/Src/usb/usb_io.c:141:8:usb_circ_buf_read	32	static
+../Core/Src/usb/usb_io.c:162:8:usb_circ_buf_send	36	static
+../Core/Src/usb/usb_io.c:190:6:usb_endpoint_set_stall	0	static
+../Core/Src/usb/usb_io.c:213:5:usb_endpoint_is_stalled	0	static
+../Core/Src/usb/usb_io.c:226:6:usb_poll	8	static
